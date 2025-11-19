@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Configuration
-OUTPUT_MD="MyBook.md"
-OUTPUT_PDF="MyBook.pdf"
+OUTPUT_MD="Modelling_Financial_Chaos.md"
+OUTPUT_PDF="Modelling_Financial_Chaos.pdf"
 
 echo "Initializing Book Builder..."
 

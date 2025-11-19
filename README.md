@@ -55,12 +55,14 @@ Continue until chapters and appendecies are completed
     npm install -g markdown-pdf
     ```
 
+  * For Latex support see LATEX.md for pre-requistes
+
 ### Steps
 
 1.  Create a folder for your book.
 2.  Save AI responses as `0.md` (intro), `1.md`, `2.md` ... `A.md` (appendix).
 3.  **Handling Images:** If the AI generates diagrams, save the image to the folder (e.g., `1.1.png`) and update the reference in the markdown file: `![Title](1.1.png)`.
-4.  Run the build script:
+4.  Run the build script (change the name of the output markdown and pdf - default is MyBook.md and MyBook.pdf)
 
 <!-- end list -->
 
@@ -69,7 +71,7 @@ chmod +x _merge.sh
 ./_merge.sh
 ```
 
-This will generate `_book.md` and `_book.pdf` (or your configured name).
+This will generate `MyBook.md` and `MyBook.pdf` (or your configured name).
 
 **Upload the resulting Markdown file (or PDF) to new chats to restore context instantly**
 
