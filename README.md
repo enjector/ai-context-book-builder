@@ -26,8 +26,8 @@ Long context windows are great, but "Context Rot" eventually sets in. Furthermor
 *Continue with each chapter number:*
 
 > "Can you write chapter 2?"
-...
-> "Can you write chapter 9?"
+
+Continue until chapters are completed
 
 **Phase 3: Review**
 
@@ -38,8 +38,12 @@ Append the output to 0.md, which is your chapter overview.
 *Continue with each chapter number:*
 
 > "Can you write chapter 16?"
-> ...
+
+AND
+
 > "Can you write Appendix A?"
+
+Continue until chapters and appendecies are completed
 
 ## 2\. Usage
 
