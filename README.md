@@ -68,3 +68,5 @@ chmod +x _merge.sh
 This will generate `_book.md` and `_book.pdf` (or your configured name).
 
 **Upload the resulting Markdown file (or PDF) to new chats to restore context instantly**
+
+Also, you should create a [NotebookLM](https://notebooklm.google.com/) discussion and debate
